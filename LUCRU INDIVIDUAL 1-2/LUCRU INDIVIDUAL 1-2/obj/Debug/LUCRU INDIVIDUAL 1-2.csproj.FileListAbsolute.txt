@@ -1,0 +1,13 @@
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\bin\Debug\LUCRU INDIVIDUAL 1-2.exe.config
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\bin\Debug\LUCRU INDIVIDUAL 1-2.exe
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\bin\Debug\LUCRU INDIVIDUAL 1-2.pdb
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU INDIVIDUAL 1-2.csproj.AssemblyReference.cache
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU_INDIVIDUAL_1_2.Login.resources
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU_INDIVIDUAL_1_2.Properties.Resources.resources
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU INDIVIDUAL 1-2.csproj.GenerateResource.cache
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU INDIVIDUAL 1-2.csproj.CoreCompileInputs.cache
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU INDIVIDUAL 1-2.exe
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU INDIVIDUAL 1-2.pdb
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU_INDIVIDUAL_1_2.Employees.resources
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU_INDIVIDUAL_1_2.Departaments.resources
+C:\Users\mishu\source\repos\LUCRU INDIVIDUAL 1-2\LUCRU INDIVIDUAL 1-2\obj\Debug\LUCRU_INDIVIDUAL_1_2.Sallary.resources
